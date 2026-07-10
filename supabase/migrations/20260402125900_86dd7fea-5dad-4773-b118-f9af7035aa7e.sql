@@ -1,0 +1,11 @@
+CREATE TABLE public.books (
+  id BIGINT GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
+  name TEXT NOT NULL,
+  author TEXT NOT NULL,
+  category TEXT NOT NULL DEFAULT 'Other',
+  status TEXT NOT NULL DEFAULT 'available',
+  issued_to TEXT,
+  due_date DATE,
+  fine NUMERIC NOT NULL DEFAULT 0,
+  created_at TIMESTAMP WITH TIME ZONE NOT NULL DEFAULT now()
+);

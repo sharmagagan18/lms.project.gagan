@@ -1,0 +1,1 @@
+ALTER TABLE public.books ADD COLUMN book_id TEXT UNIQUE NOT NULL DEFAULT '';
