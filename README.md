@@ -8,7 +8,7 @@ The application provides dedicated Admin and Student portals to simplify library
 
 ## 🚀 Live Demo
 
-🔗 https://YOUR-VERCEL-LINK.vercel.app
+🔗 https://lms-project-gagan.vercel.app
 
 ---
 
