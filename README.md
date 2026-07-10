@@ -1,18 +1,31 @@
 # 📚 Library Management System
 
-A modern and responsive Library Management System built using React.js, Vite, Tailwind CSS, and JavaScript. The application streamlines library operations by providing separate Admin and Student interfaces for efficient book management.
+A modern and responsive Library Management System developed using **React.js**, **Vite**, **Tailwind CSS**, and **JavaScript**.
 
-## 🚀 Features
+The application provides dedicated Admin and Student portals to simplify library management operations including book management, issuing, returning, and tracking books.
 
-- Admin Dashboard
-- Book Management (Add, Edit, Delete)
-- Issue & Return Books
-- Student Portal
-- Dashboard Analytics
-- Responsive UI
-- Local Storage for Data Persistence
+---
 
-## 🛠 Tech Stack
+## 🚀 Live Demo
+
+🔗 https://YOUR-VERCEL-LINK.vercel.app
+
+---
+
+## ✨ Features
+
+- 📖 Add, Edit & Delete Books
+- 👨‍💼 Admin Dashboard
+- 👨‍🎓 Student Dashboard
+- 📚 Issue & Return Books
+- 🔍 Search Books
+- 📊 Dashboard Analytics
+- 💾 LocalStorage Data Persistence
+- 📱 Fully Responsive Design
+
+---
+
+## 🛠️ Tech Stack
 
 - React.js
 - JavaScript
@@ -21,21 +34,35 @@ A modern and responsive Library Management System built using React.js, Vite, Ta
 - HTML5
 - CSS3
 - LocalStorage
-- Git & GitHub
+- Git
+- GitHub
 
-## 📸 Screenshots
-
-(Add screenshots here)
+---
 
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/sharmagagan18/lms.project.gagan.git
-cd lms.project.gagan
+git clone https://github.com/sharmagagan18/library-management-system.git
+
+cd library-management-system
+
 npm install
+
 npm run dev
 ```
+
+---
+
+## 📷 Screenshots
+
+Coming Soon...
+
+---
 
 ## 👨‍💻 Author
 
 **Gagandeep Sharma**
+
+B.Tech Computer Science Engineering
+
+Aspiring Software Developer & Data Analyst
