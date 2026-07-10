@@ -1,12 +1,10 @@
 # 📚 Library Management System
 
-A modern and responsive Library Management System developed using **React.js**, **Vite**, **Tailwind CSS**, and **JavaScript**.
+A modern and responsive **Library Management System** built using **React.js, Vite, Tailwind CSS, and JavaScript**.
 
-The application provides dedicated Admin and Student portals to simplify library management operations including book management, issuing, returning, and tracking books.
+This project streamlines library operations by providing separate **Admin** and **Student** portals with book management, issue/return tracking, and dashboard analytics.
 
----
-
-## 🚀 Live Demo
+## 🌐 Live Demo
 
 🔗 https://lms-project-gagan.vercel.app
 
@@ -14,48 +12,67 @@ The application provides dedicated Admin and Student portals to simplify library
 
 ## ✨ Features
 
-- 📖 Add, Edit & Delete Books
+- 📚 Add, Edit & Delete Books
+- 🔄 Issue & Return Books
 - 👨‍💼 Admin Dashboard
 - 👨‍🎓 Student Dashboard
-- 📚 Issue & Return Books
-- 🔍 Search Books
 - 📊 Dashboard Analytics
-- 💾 LocalStorage Data Persistence
-- 📱 Fully Responsive Design
+- 🔍 Search Functionality
+- 💾 LocalStorage-based Data Persistence
+- 📱 Responsive Design
 
 ---
 
 ## 🛠️ Tech Stack
 
-- React.js
-- JavaScript
-- Vite
-- Tailwind CSS
-- HTML5
-- CSS3
-- LocalStorage
-- Git
-- GitHub
+| Technology | Purpose |
+|------------|---------|
+| React.js | Frontend Framework |
+| JavaScript | Programming Language |
+| Vite | Build Tool |
+| Tailwind CSS | Styling |
+| HTML5 | Structure |
+| CSS3 | Design |
+| LocalStorage | Data Persistence |
+| Git & GitHub | Version Control |
 
 ---
 
-## ⚙️ Installation
+## 🚀 Installation
 
 ```bash
-git clone https://github.com/sharmagagan18/library-management-system.git
-
-cd library-management-system
-
+git clone https://github.com/sharmagagan18/lms.project.gagan.git
+cd lms.project.gagan
 npm install
-
 npm run dev
 ```
 
 ---
 
-## 📷 Screenshots
+## 📂 Project Structure
 
-Coming Soon...
+```
+src/
+public/
+supabase/
+```
+
+---
+
+## 📸 Screenshots
+
+> Screenshots will be added below.
+
+---
+
+## 🔮 Future Improvements
+
+- Backend Integration
+- User Authentication
+- Fine Calculation
+- Barcode / QR Code Support
+- Email Notifications
+- Database Integration
 
 ---
 
@@ -63,6 +80,9 @@ Coming Soon...
 
 **Gagandeep Sharma**
 
-B.Tech Computer Science Engineering
+- B.Tech Computer Science Engineering
+- Aspiring Software Developer & Data Analyst
 
-Aspiring Software Developer & Data Analyst
+---
+
+⭐ If you like this project, consider giving it a star on GitHub!
