@@ -61,7 +61,35 @@ supabase/
 
 ## 📸 Screenshots
 
-> Screenshots will be added below.
+## 📸 Screenshots
+
+### 🔐 Login Page
+
+![Login](screenshots/login.png)
+
+---
+
+### 📊 Admin Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+---
+
+### 📚 View Books
+
+![View Books](screenshots/viewBooks.png)
+
+---
+
+### 📖 Issue Books
+
+![Issue Books](screenshots/IssueBooks.png)
+
+---
+
+### 👨‍🎓 Students
+
+![Students](screenshots/students.png)
 
 ---
 
